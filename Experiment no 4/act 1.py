@@ -1,6 +1,6 @@
 ## Input marks of students
 Created on Sat Mar 28 01:10:51 2026
-@author: Raj Magar
+@author: avinash bhandwalakr
 
 marks = [75, 88, 92, 67, 85]
 # Calculate average
