@@ -1,6 +1,6 @@
 # Input salary from user
 Created on Fri Mar 27 21:30:33 2026
-@author: Raj Magar
+@author: avinash bhandwalakar
 salary = float(input("Enter your salary: "))
 # Check loan approval
 if salary >= 25000:
