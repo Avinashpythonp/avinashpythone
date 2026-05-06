@@ -1,6 +1,6 @@
 #Take input from the user
 Created on Fri Mar 27 23:07:16 2026
-@author: Raj Magar
+@author: avinash bhandwalakar
 string = input("Enter a string:")
 
 
