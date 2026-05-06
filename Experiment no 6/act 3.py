@@ -1,6 +1,6 @@
 #Copy backup data from one file to another.
 Created on Mon Mar 23 15:32:09 2026
-@author: Raj Magar
+@author: avinash bhandwalakar
 
 source_file = "source. txt"
 with open(source_file, "w") as file:
