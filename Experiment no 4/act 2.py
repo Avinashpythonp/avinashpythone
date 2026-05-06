@@ -1,6 +1,6 @@
 # List of product prices
 Created on Sat Mar 28 01:16:18 2026
-@author: Raj Magar
+@author: avinash bhandwalakar
 prices = [120, 250, 75, 300, 90]
 # Calculate total bill
 
