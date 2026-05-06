@@ -1,6 +1,6 @@
 # To implement python programs using dictionaries & sets
 Created on Mon Mar 9 14:45:31 2026
-@author: Raj Magar
+@author: avinash bhandwalakar
 
 set1 = set(map(int, input("Enter elements of first set (space-separated): ").split(',')))
 
