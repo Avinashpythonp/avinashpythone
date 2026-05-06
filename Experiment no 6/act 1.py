@@ -1,6 +1,6 @@
 #Store daily expenses in a file and calculate total monthly expense.
 Created on Mon Mar 23 15:14:03 2026
-@author: Raj Magarl
+@author: avinash bhandwalakar
 file_name = "daily_expenses.txt"
 with open(file_name, "w") as file:
 
