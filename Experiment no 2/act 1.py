@@ -3,7 +3,7 @@ Created on Fri Mar 27 20:58:33 2026
 
 
 
-@author: Raj Magar
+@author: avinash bhandwalakar
 speed = float(input("Enter vehicle speed (km/h): "))
 
 
