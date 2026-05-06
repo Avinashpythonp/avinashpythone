@@ -1,6 +1,6 @@
 # Add new stock in shop inventory
 Created on Mon Mar 9 14:45:31 2026
-@author: Raj Magar
+@author: avinash bhandwalakar
 inventory = {}
 
 
