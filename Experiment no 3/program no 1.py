@@ -1,6 +1,6 @@
 # To generate a number pattern
 Created on Mon Feb 16 15:26:04 2026
-@author: Raj Magar
+@author: avinash bhandwalakar
 n=int(input("Enter number of rows:"))
 
 
