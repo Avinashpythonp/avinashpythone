@@ -1,6 +1,6 @@
 # Count frequency of purchased items
 Created on Mon Mar 9 14:45:31 2026
-@author: Raj Magar
+@author: avinash bhandwalakar
 
 items = ["apple", "banana", "apple", "orange", "banana", "apple"]
 
