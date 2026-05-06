@@ -1,6 +1,6 @@
 # List of mobile numbers (with duplicates)
 Created on Sat Mar 28 01:25:24 2026
-@author: Raj Magarl
+@author: avinash bhandwalakar
 numbers = [9876543210, 9123456789, 9876543210, 9988776655, 9123456789]
 
 
