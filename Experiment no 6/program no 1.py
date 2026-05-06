@@ -1,6 +1,6 @@
 #To Create a text file and add course outcomes of this course.
 Created on Mon Mar 23 14:54:31 2026
-@author: Raj Magar
+@author: avinash bhandwalakar
 
 file_name = "course_outcomes.txt"
 
