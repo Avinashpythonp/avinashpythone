@@ -1,6 +1,6 @@
 [6:05 pm, 5/5/2026] 🇦 🇷 🇯 🇺 🇳 💎: # To calculate simple interest using functions
 Created on Mon Feb 16 15:26:04 2026
-@author: Raj Magar
+@author: avinash bhandwalakar
 def simple_interest(principal, rate, time):
 
 
