@@ -1,6 +1,6 @@
 # Input age from user
 Created on Fri Mar 27 21:21:16 2026
-@author: Raj Magar
+@author: avinash bhandwalakar
 age = int(input("Enter your age: "))
 # Check eligibility
 
