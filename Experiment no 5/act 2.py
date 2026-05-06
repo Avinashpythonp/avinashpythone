@@ -1,6 +1,6 @@
 # studentss present in both classes
 Created on Mon Mar 9 14:45:31 2026
-@author: Raj Magar
+@author: avinash bhandwalakar
 classA = set(map(int, input("Enter roll no. of present student (space-separated): ").split(',')))
 classB = set(map(int, input("Enter roll no. of present student (space-separated): ").split(',')))
 common_students = classA | classB
