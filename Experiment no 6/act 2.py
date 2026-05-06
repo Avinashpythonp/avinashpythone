@@ -1,6 +1,6 @@
 #Create a student attendance file and append new records.
 Created on Mon Mar 23 15:30:46 2026
-@author: Raj Magar
+@author: avinash bhandwalakar
 
 file_name = "attendance.txt"
 
