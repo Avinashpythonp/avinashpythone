@@ -1,6 +1,6 @@
 # Code for seat booking
 Created on Mon Feb 16 15:26:04 2026
-@author: Raj Magar
+@author: avinash bhandwalakar
 rows = int(input("Enter number of rows: "))
 seats_per_row = int(input("Enter number of seats in each row: "))
 for row in range(1, rows + 1):
