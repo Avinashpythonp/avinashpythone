@@ -1,7 +1,7 @@
 # Program to display personal details
 Created on Thu Apr 2 00:18:53 2026
-@author: Raj Magar
-name = "Raj Magar"
+@author: "avinash bhandwalakar"
+name = "avinash bhandwalakar"
 address = "Satara, Maharashtra, India"
 
 10
